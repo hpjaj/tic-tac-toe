@@ -1,4 +1,4 @@
-# 1 - requiring another file enables you to its methods in this file
+# 1 - requiring another file enables you to call its methods in this file
 # 2 - you can exclude the .rb from the file name
 # 3 - "./" means the file is located in the same directory as this one is
 require "./board"
